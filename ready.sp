@@ -6,7 +6,7 @@ public Plugin:myinfo =
 	author = "Fat pig feet",
 	description = "https://github.com/wtnmcw",
 	version = "beta1.0",
-	url = "",
+	url = "https://github.com/wtnmcw",
 }
 
 

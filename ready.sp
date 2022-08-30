@@ -3,8 +3,8 @@
 public Plugin:myinfo =
 {
 	name = "'G'=ready ",
-	author = "HJ",
-	description = "https://steamcommunity.com/profiles/76561199180030294/",
+	author = "",
+	description = "https://github.com/wtnmcw",
 	version = "beta1.0",
 	url = "",
 }

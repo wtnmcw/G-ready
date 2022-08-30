@@ -3,7 +3,7 @@
 public Plugin:myinfo =
 {
 	name = "'G'=ready ",
-	author = "",
+	author = "Fat pig feet",
 	description = "https://github.com/wtnmcw",
 	version = "beta1.0",
 	url = "",
